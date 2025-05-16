@@ -6,7 +6,7 @@ Every .txt file is parsed to numbers and the result is printed to the console ou
 To run the app:
 
 - Build the solution
-- Copy all test .txt files to the build output directory if they does not appear there after build. (I had some issues with related VisualStudio settings for copying them during the build).
+- Copy all test .txt files to the build output directory if they do not appear there after build. (I had some issues with related VisualStudio settings for copying them during the build).
 - Execute the app.
 
 Important notes about the .txt files:
